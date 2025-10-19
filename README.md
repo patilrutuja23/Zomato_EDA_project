@@ -6,6 +6,7 @@
 This project performs an Exploratory Data Analysis (EDA) on the Zomato dataset to uncover key insights about restaurants, ratings, cuisines, pricing, and customer preferences.
 The main goal is to understand trends in the restaurant industry and identify factors that influence restaurant success and customer satisfaction.
 <br> 
+
 # Objectives
 Analyze the structure and characteristics of the Zomato dataset.
 Clean and preprocess data for better accuracy and insights.
@@ -17,6 +18,7 @@ Online ordering and table booking preferences
 Visualize trends using data visualization libraries.
 
 <br>
+
 # Tools & Technologies
 Programming Language: Python
 Libraries Used:
@@ -26,6 +28,7 @@ matplotlib and seaborn – data visualization
 plotly (optional) – interactive charts
 
 <br>
+
 # Data Cleaning Steps
 Handling missing values and duplicates
 Converting data types where necessary
