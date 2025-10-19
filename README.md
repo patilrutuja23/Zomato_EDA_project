@@ -1,21 +1,25 @@
-# Zomato Data Exploratory Data Analysis (EDA)
+# **Zomato Data Exploratory Data Analysis (EDA)**
 📊 Project Overview
 
 
 <br>
 This project performs an Exploratory Data Analysis (EDA) on the Zomato dataset to uncover key insights about restaurants, ratings, cuisines, pricing, and customer preferences.
+<br>
 The main goal is to understand trends in the restaurant industry and identify factors that influence restaurant success and customer satisfaction.
 <br> 
 
 # Objectives
 Analyze the structure and characteristics of the Zomato dataset.
+<br>
 Clean and preprocess data for better accuracy and insights.
+<br>
 Explore patterns in:
-Restaurant ratings
-Price ranges and cuisines
-Location-wise restaurant distribution
-Online ordering and table booking preferences
-Visualize trends using data visualization libraries.
+<br>
+- Restaurant ratings
+- Price ranges and cuisines
+- Location-wise restaurant distribution
+- Online ordering and table booking preferences
+- Visualize trends using data visualization libraries.
 
 <br>
 
