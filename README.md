@@ -1,5 +1,5 @@
 # **Zomato Data Exploratory Data Analysis (EDA)**
-📊 Project Overview
+# Project Overview
 
 
 <br>
@@ -26,10 +26,10 @@ Explore patterns in:
 # Tools & Technologies
 - Programming Language: Python
 - Libraries Used:
-- pandas – data manipulation and cleaning
-- numpy – numerical analysis
-- matplotlib and seaborn – data visualization
-- plotly (optional) – interactive charts
+    - pandas – data manipulation and cleaning
+    - numpy – numerical analysis
+    - matplotlib and seaborn – data visualization
+    - plotly (optional) – interactive charts
 
 <br>
 
